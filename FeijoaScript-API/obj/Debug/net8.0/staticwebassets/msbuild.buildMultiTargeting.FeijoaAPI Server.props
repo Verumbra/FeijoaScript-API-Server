@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\FeijoaAPI Server.props" />
+</Project>

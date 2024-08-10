@@ -1,0 +1,6 @@
+@FeijoaAPI_Server_HostAddress = http://localhost:5036
+
+GET {{FeijoaAPI_Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
